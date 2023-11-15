@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79aae6cf926c7432f8caa361bd64e5bd, type: 3}
+  m_Name: LevelData (bc1fda0f-2704-4005-a954-58a1fbcdaabe)
+  m_EditorClassIdentifier: 
+  name: LevelData
+  guid: bc1fda0f-2704-4005-a954-58a1fbcdaabe
+  size: {x: 10, y: 0.01, z: 10}
+  position: {x: 0, y: 0, z: 0}
+  rotation: {x: -0, y: 0, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  levelObjects:
+  - guid: 9eaf1956-217e-4ab2-acaa-13fe2dd955bd
+    resourceGuid: 
+    position: {x: -2.814352, y: 0.005, z: 0.51428485}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - guid: 943ec50a-9db4-4c25-b284-9cf435a1fc60
+    resourceGuid: 
+    position: {x: -1.4472576, y: 0.005, z: 0.46370935}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - guid: 3698a421-cad7-4123-8160-13933bc64c90
+    resourceGuid: e5d3d2c0-d1d1-4bbc-97fc-7c610aa08398
+    position: {x: 0.013460636, y: 0.005, z: -1.6410085}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.5, y: 1, z: 1}
+  - guid: c9dd7120-65c4-498f-83e2-e4fedd823ecb
+    resourceGuid: e5d3d2c0-d1d1-4bbc-97fc-7c610aa08398
+    position: {x: 0.24816298, y: 0.005, z: -0.4203217}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.5, y: 1, z: 1}
+  - guid: a0987e03-5976-40e1-9bcb-8696bdd20edc
+    resourceGuid: e5d3d2c0-d1d1-4bbc-97fc-7c610aa08398
+    position: {x: 0.14830732, y: 0.005, z: 0.9057226}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 0.5, y: 1, z: 1}

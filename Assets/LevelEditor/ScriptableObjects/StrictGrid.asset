@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4c649bfe48b4576bf907b608234a30, type: 3}
+  m_Name: StrictGrid
+  m_EditorClassIdentifier: 
+  minimumLevelSize: {x: 1, y: 1, z: 1}
+  maximumLevelSize: {x: 50, y: 1, z: 50}
+  defaultLevelSize: {x: 50, y: 1, z: 50}
+  maxBuildHeight: 0
+  cellSize: 1
+  levelObjectsPath: 
+  <DefaultLayout>k__BackingField: {fileID: 6276214188740187698, guid: 6b41f13193930421a802815f41f7289b,
+    type: 3}
+  <Layouts>k__BackingField:
+  - {fileID: 6276214188740187698, guid: 6b41f13193930421a802815f41f7289b, type: 3}
+  - {fileID: 6276214188740187698, guid: 0f4d644aa6d9340e7a582c2155525b76, type: 3}
+  <ShowHandles>k__BackingField: 1
+  <HandlePrefab>k__BackingField: {fileID: 1597317765541466534, guid: 7198e9036b5d94a6d843dddb85deb3a8,
+    type: 3}
+  <HandleFadeInDistance>k__BackingField: 0
+  <HandleFadeOutDistance>k__BackingField: 0
+  <HandleSelectedColor>k__BackingField: {r: 0, g: 1, b: 0, a: 1}
+  <HandleUnselectedColor>k__BackingField: {r: 0, g: 0, b: 1, a: 1}
+  <HandleInvalidColor>k__BackingField: {r: 1, g: 0, b: 0, a: 1}
+  latticeMaterial: {fileID: 2100000, guid: 68fd7a4845b9f40e2af4161943830e6b, type: 2}
+  latticeThickness: 0.03
+  usePlacementMaterials: 1
+  validPlacementMaterial: {fileID: 2100000, guid: dff8ba0db526f4d92ae2a22d8c8d587e,
+    type: 2}
+  invalidPlacementMaterial: {fileID: 2100000, guid: 2bbc1433e069340dfbc98ae5bef92c52,
+    type: 2}
+  enableVertexSnapping: 0
+  <LevelObjects>k__BackingField:
+  - {fileID: 11400000, guid: 7f6fb66b23a174c1c9a6a37b8fe90798, type: 2}
+  - {fileID: 11400000, guid: 735702956b4324b309ae5507381255ea, type: 2}
+  levelObjectLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  levelLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  globalConstraints: []
+  useVolumes: 0
+  ShowEditingVisuals: 0
+  volumePadding: 0
+  heightStep: 0
+  targetObjects: 0
+  minRayDistance: 100
+  maxRayDistance: 100
+  rayDistanceStep: 1
+  ignoreEmptyRaycasts: 0
+  defaultPlacementMode: 2
+  allowedBuildModes: 
+  strictGridPlacement: 1
+  stackObjects: 0
+  stickObjects: 0
+  editorSavePath: Assets/LevelEditor/Levels
+  simulateRuntimeIO: 0
+  runtimeSavePath: /Level
+  useDefaultInputs: 1
+  drawVolumeCorners: 0
+  drawGridLattice: 1
+  showMarkers: 0

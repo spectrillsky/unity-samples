@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3f5eec663eb45e5bb9c84866576d53, type: 3}
+  m_Name: LevelData (be353bed-81cc-44a2-bbc5-2e1c26e2235d)
+  m_EditorClassIdentifier: 
+  name: LevelData
+  guid: be353bed-81cc-44a2-bbc5-2e1c26e2235d
+  size: {x: 0, y: 0, z: 0}
+  position: {x: 0, y: 0, z: 0}
+  rotation: {x: -0, y: 0, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  levelObjects: []
+  material: {fileID: 0}
+  testString: 

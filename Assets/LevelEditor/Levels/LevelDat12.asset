@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79aae6cf926c7432f8caa361bd64e5bd, type: 3}
+  m_Name: LevelDat12
+  m_EditorClassIdentifier: 
+  DisplayName: LevelDat12
+  Guid: 326951c7-9fa6-4794-89f2-25baba037552
+  Size: {x: 10, y: 1, z: 10}
+  Position: {x: 0, y: 0, z: 0}
+  Rotation: {x: -0, y: 0, z: 0}
+  Scale: {x: 1, y: 1, z: 1}
+  LevelObjects:
+  - guid: 389c020a-b292-4c06-b2a6-c0ada56aec0f
+    resourceGuid: cf553746-b164-4d34-ae2f-6168af1bf4cc
+    parentGuid: 
+    position: {x: 1.7550516, y: 0.005, z: -0.62266827}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - guid: 7b4109d4-2591-4947-871d-627a9b9f52b0
+    resourceGuid: cf553746-b164-4d34-ae2f-6168af1bf4cc
+    parentGuid: 
+    position: {x: -0.77064323, y: 0.005, z: 0.8787432}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - guid: 7cec81c6-4ef0-448e-b435-1d8507b58353
+    resourceGuid: cf553746-b164-4d34-ae2f-6168af1bf4cc
+    parentGuid: 
+    position: {x: -1.1578436, y: 0.005, z: -1.3615103}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 1, y: 1, z: 1}

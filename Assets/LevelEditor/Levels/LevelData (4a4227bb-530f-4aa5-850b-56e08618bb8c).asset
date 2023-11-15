@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79aae6cf926c7432f8caa361bd64e5bd, type: 3}
+  m_Name: LevelData (4a4227bb-530f-4aa5-850b-56e08618bb8c)
+  m_EditorClassIdentifier: 
+  DisplayName: LevelDat tea
+  Guid: 69bbd13c-063f-4f1b-8211-4232eac9fc93
+  Size: {x: 17, y: 1, z: 22}
+  Position: {x: 0, y: 0, z: 0}
+  Rotation: {x: -0, y: 0, z: 0}
+  Scale: {x: 1, y: 1, z: 1}
+  LevelObjects:
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: 2.5, y: 0.005, z: 3.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: 2.5, y: 0.005, z: 3.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: -1.5, y: 0.005, z: 2.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: -1.5, y: 0.005, z: 2.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: -1.5, y: 0.005, z: -0.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: -1.5, y: 0.005, z: -0.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: -0.5, y: 0.005, z: -4.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}
+  - guid: 
+    resourceGuid: 20f8f890-eac2-4a6b-bed2-3455742221f6
+    parentGuid: 
+    position: {x: -0.5, y: 0.005, z: -4.5}
+    rotation: {x: -0, y: 0, z: 0}
+    scale: {x: 2, y: 1, z: 1}

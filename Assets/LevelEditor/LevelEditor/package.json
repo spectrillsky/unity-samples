@@ -1,0 +1,12 @@
+{
+  "name": "com.lfg.leveleditor",
+  "displayName": "LFG Level Editor",
+  "version": "0.10.9",
+  "unity": "2021.3",
+  "description": "A generic level editor system.",
+  "dependencies": {
+    "com.unity.addressables" : "1.19.19",
+    "com.unity.cinemachine" : "2.8.6",
+    "com.unity.inputsystem" : "1.3.0"
+  }
+}

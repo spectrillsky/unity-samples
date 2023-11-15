@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5aff7d1d2934a1a8c2d3de87d83c4e, type: 3}
+  m_Name: wall
+  m_EditorClassIdentifier: 
+  _id: 2c871459-fb4d-460b-9c3f-87353a89dbf7
+  <DisplayName>k__BackingField: Wall
+  <HasSize>k__BackingField: 1
+  <Size>k__BackingField: {x: 1, y: 1, z: 1}
+  <Types>k__BackingField:
+  - {fileID: 11400000, guid: 95624bf52ced1453085e074d4ae59fcd, type: 2}
+  <UseHandle>k__BackingField: 1
+  <AlwaysShowEditingVisuals>k__BackingField: 0
+  <Prefab>k__BackingField: {fileID: 418277865499078344, guid: 0baeba32cfe99466aa82ecc59d98bde0,
+    type: 3}
+  <Constraints>k__BackingField:
+  - {fileID: 11400000, guid: 09bd13b0fcaa54cc3b66a0b6da1a9be9, type: 2}
+  - {fileID: 11400000, guid: 93bf39f6af9bf438f8b3427132cd9680, type: 2}
+  <UseVolume>k__BackingField: 0
+  <MinInstances>k__BackingField: 1
+  <MaxInstances>k__BackingField: 2

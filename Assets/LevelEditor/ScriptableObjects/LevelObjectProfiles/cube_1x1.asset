@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5aff7d1d2934a1a8c2d3de87d83c4e, type: 3}
+  m_Name: cube_1x1
+  m_EditorClassIdentifier: 
+  _id: 7c4c8f43-4c01-4db2-9082-cae3817f7d1d
+  <DisplayName>k__BackingField: Cube (1x1) 1
+  <HasSize>k__BackingField: 1
+  <Size>k__BackingField: {x: 1, y: 1, z: 1}
+  <Types>k__BackingField: []
+  <UseHandle>k__BackingField: 1
+  <AlwaysShowEditingVisuals>k__BackingField: 0
+  <Prefab>k__BackingField: {fileID: 4332499531911432285, guid: 4c93163b44f714d5cb04ae9ac41db79c,
+    type: 3}
+  <Constraints>k__BackingField:
+  - {fileID: 11400000, guid: 09bd13b0fcaa54cc3b66a0b6da1a9be9, type: 2}
+  - {fileID: 11400000, guid: 93bf39f6af9bf438f8b3427132cd9680, type: 2}
+  <UseVolume>k__BackingField: 0
+  <MinInstances>k__BackingField: 0
+  <MaxInstances>k__BackingField: -1
